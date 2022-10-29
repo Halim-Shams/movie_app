@@ -3,7 +3,6 @@
 @tailwind utilities;
 body {
     height: 100vh;
-    background-color: #111827;
 }
 
 .movie:hover div:nth-of-type(1) {
@@ -20,6 +19,7 @@ body {
 
 .container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
-    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+    column-gap: 1.2rem;
+    row-gap: 1.8rem;
 }
