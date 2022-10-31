@@ -11,7 +11,7 @@ Make sure you've installed [git](https://git-scm.com/) and [npm](https://docs.np
 1. Clone/Fork the Repo and then clone the Repo from your GitHub account, change the {your-username} to what your username is:
 
 ```bash
-git clone https://github.com/{your-username}/Medium-Clone.git
+git clone https://github.com/{your-username}/movie_app.git
 ```
 
 2. Go into the project root directory:
