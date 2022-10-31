@@ -6,7 +6,7 @@ function Search() {
 	return (
 		<div className='flex items-center justify-center w-full'>
 			<div className='bg-white flex items-center justify-end shadow-md px-1.5 w-8/12 h-11 rounded-md'>
-			<div>	
+			<div style={{"padding": "15px", "fontSize": "20px"}}>	
 			<FaSearch / >
 			</div>
 				<input
