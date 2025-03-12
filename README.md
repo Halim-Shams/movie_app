@@ -1,5 +1,7 @@
 # Movie App
 
+
+  
 A React and Tailwindcss Movie app based on a FREE movie API.
 
 ## Start Frontend (React.js)
